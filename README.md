@@ -36,6 +36,18 @@
 
 <br>
 
+## 🌐 Source
+This tool fetches company CIDR blocks directly from the `bgp.he.net` website.
+```bash
+https://bgp.he.net
+```
+
+<br>
+
+---
+
+<br>
+
 ## 🛠️ Prerequisites
 
 Ensure the following utilities are installed on your system before running the script:
@@ -105,7 +117,7 @@ The tool outputs structured results into the local directory based on the target
 <br>
 
 ## ⚠️ Disclaimer
-This tool is created strictly for authorized security auditing, reconnaissance, and educational purposes. The author is not responsible for any misuse or unauthorized network scanning.
+This tool is created strictly for authorized security auditing, reconnaissance, and educational purposes. The author is not responsible for any misuse.
 
 <br>
 
