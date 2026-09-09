@@ -15,7 +15,7 @@
 
 ## 🔍 Overview
 
-**CIDR-Anveshak** is a simple, high-performance, lightweight bash utility designed for security researchers. It automates the extraction of Autonomous System Numbers (ASNs) and their corresponding IPv4 and IPv6 CIDR address blocks directly from BGP routing intelligence.
+**CIDR-Anveshak** is a simple, fast, high-performance, lightweight bash utility designed for security researchers. It automates the extraction of Autonomous System Numbers (ASNs) and their corresponding IPv4 and IPv6 CIDR address blocks directly from BGP routing intelligence.
 
 <br>
 
@@ -29,6 +29,20 @@
 * **Dual-Stack Extraction:** Pulls both IPv4 and IPv6 prefixes/CIDR associated with the target infrastructure.
 * **Automated Data Sorting:** Cleanly sorts, de-duplicates, and formats CIDR blocks for downstream tools.
 * **Structured Output:** Automatically generates isolated text files for IPv4 and IPv6 CIDR blocks results.
+
+<br>
+
+---
+
+<br>
+
+## 🎯 Purpose
+
+The primary purpose of **CIDR-Anveshak** is to eliminate the tedious and time-consuming process of manually searching, copying, and pasting CIDR blocks into texts files - from `https://bgp.he.net` during network reconnaissance. 
+
+Instead of manually gathering CIDR blocks for bug bounty hunting or network pentesting, this tool automates the entire discovery process in seconds. It extracts all associated IPv4 and IPv6 CIDR blocks for your target organization and automatically saves them into dedicated, clean text files on your local system. 
+
+By automating this workflow, it saves valuable time and effort, allowing you to bypass manual data collection and focus directly on execution—whether that involves feeding the target CIDR lists into tools like `nmap` or proceeding straight into active network security testing.
 
 <br>
 
