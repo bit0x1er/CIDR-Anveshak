@@ -11,6 +11,14 @@
 
 ---
 
+
+<div align="center">
+  <img width="750" alt="logo" src="https://github.com/user-attachments/assets/5aafc7e0-0b41-4ab7-ba10-c7d259f60e26" />
+</div>
+
+
+---
+
 <br>
 
 ## 🔍 Overview
@@ -110,6 +118,16 @@ chmod +x cidr-anveshak.sh
 ```bash
 ./cidr-anveshak.sh
 ```
+
+<br>
+
+---
+
+<br>
+
+## 🎬 Demo
+
+<img width="600" height="714" alt="output" src="https://github.com/user-attachments/assets/2e297ee8-085d-4b62-9e1b-7a50d6087825" />
 
 <br>
 
