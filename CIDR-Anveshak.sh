@@ -15,7 +15,7 @@ read -p "Enter the target name (e.g., google): " target
 target_encoded="${target// /%20}"
 
 target_filename="${target// /_}"
-file_prefix="CIDR+_${target_filename}"
+file_prefix="CIDR-Anveshak_${target_filename}"
 
 echo ""
 echo "Finding All ASN Numbers for $target..."
